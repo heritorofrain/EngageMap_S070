@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9d134dcd0e97e76409544df8e27ce6c8, type: 3}
+  m_Name: 21307839-079A-4432-B19C-272E2A3392C2
+  m_EditorClassIdentifier:
+  objectName: Wind3
+  id: 742231738
+  guid: 21307839-079A-4432-B19C-272E2A3392C2

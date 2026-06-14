@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: House_FileneA
+  m_Controller: {fileID: 9100000, guid: ec4a00a6dfc79ab4e9492225bca8099b, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: bda879c5536d1fd4c9c2377fcac76f33, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: dac95397dbe7e1946b0350feaeb875a3, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 5ce30e57398c17a4192d5ca3d32f223d, type: 2}
+    m_OverrideClip: {fileID: 0}
+  - m_OriginalClip: {fileID: 7400000, guid: 32795e4cc025cc3479422a8f8d4cffce, type: 2}
+    m_OverrideClip: {fileID: 0}

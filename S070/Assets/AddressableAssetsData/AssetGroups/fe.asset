@@ -1,0 +1,526 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: fe
+  m_EditorClassIdentifier: 
+  m_GroupName: fe
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 94944f708e5906c468526939828b9e53
+  m_SerializeEntries:
+  - m_GUID: e5febc3578cc9c44aa0dbc12dfd5cf2a
+    m_Address: Fld_S070
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: a35b819c50b86704093c58c08ddc54f9
+    m_Address: CustomRP/Shaders/Map/MapBakedTerrain.shader
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: c2d737676f32a3a4bbc9cd2e4bc3629e
+    m_Address: CustomRP/Shaders/Map/MapBlend.shader
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 9427ccdce59f1fd4b94c45dde2b282cc
+    m_Address: CustomRP/Shaders/Map/MapBackground.shader
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 477d4b008dfbb114a9eaa9fdbecaac05
+    m_Address: CustomRP/Shaders/Map/MapStandard.shader
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 63bfe1bf740976941a373aaabe4cceb6
+    m_Address: CustomRP/Shaders/Map/MapLeaf.shader
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: f0ad9def67a5e1f4ea6058d223a307cc
+    m_Address: CustomRP/Shaders/Common/Shadow.shader
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 58713cbad713c3540b74ccb6741e054a
+    m_Address: CustomRP/Shaders/Particles/ParticlesStandard.shader
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: bfdc2b361d2444d45b8aae1f9bd77861
+    m_Address: CustomRP/Shaders/Chara/CharaStandard.shader
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 310e2f65ed634f2488bef85e437320c7
+    m_Address: Map/Common/Terrain/Textures/RepeatTextures/M004/Ter_Barren_Base_01_M004_Color
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - removePostBuild
+  - m_GUID: 9ec5ccd1e02a2264fb9da1b9282abb01
+    m_Address: Map/Common/Terrain/Textures/RepeatTextures/M004/Ter_Grass_Base_07_M004_Color
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - removePostBuild
+  - m_GUID: 2cf08b09a006bb143b6219d6d70a922a
+    m_Address: Map/Common/Terrain/Textures/RepeatTextures/M004/Ter_Soil_Base_01_M004_Color
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - removePostBuild
+  - m_GUID: a3f7c101e7641634e9f64b48d04242fb
+    m_Address: Map/Common/Object/House_FileneA/FBX/House_FileneA
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - removePostBuild
+  - m_GUID: 86a28e4ac09126745a0a2dbece391e22
+    m_Address: Map/Common/Object/House_FileneA/FBX/Textures/Map_Stone_HouseFileneABaseLOD0_01_Color
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - removePostBuild
+  - m_GUID: 423c4047f9a710a4facffa9aeb8cffbe
+    m_Address: Map/Common/Object/House_FileneA/FBX/Textures/Map_Stone_HouseFileneABaseLOD0_01_Multi
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - removePostBuild
+  - m_GUID: 6cd6b8ed113165c4e8139004e3d33156
+    m_Address: Map/Common/Object/House_FileneA/FBX/Textures/Map_Stone_HouseFileneABaseLOD0_01_Normal
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - removePostBuild
+  - m_GUID: 1603df59d127f534b836c3b999c635b1
+    m_Address: Map/Common/Object/House_FileneA/FBX/Textures/Map_Stone_FileneHouseABottomLOD0_01_Color
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - removePostBuild
+  - m_GUID: 9b950b2d3eb9e5842a534d5965915dcb
+    m_Address: Map/Common/Object/House_FileneA/FBX/Textures/Map_Stone_FileneHouseABottomLOD0_01_Multi
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - removePostBuild
+  - m_GUID: a7c914b20caff3145b86a3327fa03026
+    m_Address: Map/Common/Object/House_FileneA/FBX/Textures/Map_Stone_FileneHouseABottomLOD0_01_Normal
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - removePostBuild
+  - m_GUID: f576f595a8a3af647ae2c6f49efdbb31
+    m_Address: Map/Common/Object/House_FileneA/FBX/Textures/Map_Wood_FileneHouseARoofLOD0_01_Color
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - removePostBuild
+  - m_GUID: 80e68056782abf749a1b8557a648fb9a
+    m_Address: Map/Common/Object/House_FileneA/FBX/Textures/Map_Wood_FileneHouseARoofLOD0_01_Multi
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - removePostBuild
+  - m_GUID: d57d631996e50a143abb7e21e3ecda11
+    m_Address: Map/Common/Object/House_FileneA/FBX/Textures/Map_Wood_FileneHouseARoofLOD0_01_Normal
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - removePostBuild
+  - m_GUID: 3a5c2a81711f68f4fbca4bc9cf3755b7
+    m_Address: Map/Common/Object/House_FileneA/FBX/Textures/Map_Wood_FileneHouseATopLOD0_01_Color
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - removePostBuild
+  - m_GUID: 51c4cb63e0037c14ca7593c937a756f2
+    m_Address: Map/Common/Object/House_FileneA/FBX/Textures/Map_Wood_FileneHouseATopLOD0_01_Multi
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - removePostBuild
+  - m_GUID: 464890720d43e114ab78dc231e7b0029
+    m_Address: Map/Common/Object/House_FileneA/FBX/Textures/Map_Wood_FileneHouseATopLOD0_01_Normal
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - removePostBuild
+  - m_GUID: 17a8bf0c75eb1c64c93a43c3dfaf9989
+    m_Address: Map/Common/ToonRamp/ToonRamp_S001_02
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - removePostBuild
+  - m_GUID: 926760b47de8680449d102913bdfeaeb
+    m_Address: Map/Common/Object/Tree_FirTree/FBX/Textures/Map_Leaf_FirTreeA_01_Normal
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - removePostBuild
+  - m_GUID: a3700c4313ac6fe4ab48f84dbd274fed
+    m_Address: Map/Common/Object/Tree_FirTree/FBX/Textures/Map_Wood_FirTreeA_01_Multi
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - removePostBuild
+  - m_GUID: 1ebbfa21371839c4cb86fb30429a6d14
+    m_Address: Map/Common/Object/Tree_FirTree/FBX/Textures/Map_Wood_FirTreeA_01_Color
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - removePostBuild
+  - m_GUID: 199a54fe098be6a42b085014c5bca366
+    m_Address: Map/Common/Object/Tree_FirTree/FBX/Textures/Map_Leaf_FirTreeA_02_Color
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - removePostBuild
+  - m_GUID: e50664a0c8e6dae4b84a0508cc89ec81
+    m_Address: Map/Common/Object/Tree_FirTree/FBX/Textures/Map_Leaf_FirTreeC_01_Color
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - removePostBuild
+  - m_GUID: 55a7a5150944ec0489065da7b84088f1
+    m_Address: Map/Common/Object/Tree_FirTree/FBX/Textures/Map_Leaf_FirTreeA_01_Multi
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - removePostBuild
+  - m_GUID: f0e7b79cae4fa4a45a6ca64889ede3f2
+    m_Address: Map/Common/Object/FortB/FBX/FortB
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - removePostBuild
+  - m_GUID: bee99b2ae201e2048a0bcdf44f87e74d
+    m_Address: Effects/Field/S001/Prefabs/Eff_Smoke_00
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - removePostBuild
+  - m_GUID: d92c99b0726ce5f42ad958366be9efa0
+    m_Address: Effects/Field/S001/Prefabs/Eff_Smoke_Bmap_00
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - removePostBuild
+  - m_GUID: f7c0cfe2e632bd04096aa4e6d9c12573
+    m_Address: Effects/Field/Result/Prefabs/WarpHole_00
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - removePostBuild
+  - m_GUID: d7ac293721a917548ae31ce8a05bab93
+    m_Address: Map/Common/Object/FileneWall/FBX/FileneWallA
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - removePostBuild
+  - m_GUID: f225735a8d15b504aa99eedc547725ac
+    m_Address: Map/Common/Object/FileneWall/FBX/Textures/Map_Stone_FileneWallALOD0_01_Color
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - removePostBuild
+  - m_GUID: dd2525fa9c6086846b98413225316627
+    m_Address: Map/Common/Object/FileneWall/FBX/Textures/Map_Stone_FileneWallALOD0_01_Multi
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - removePostBuild
+  - m_GUID: a16febc3b11bd5c40a8acd25f4b9f740
+    m_Address: Map/Common/Object/FileneWall/FBX/Textures/Map_Stone_FileneWallALOD0_01_Normal
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - removePostBuild
+  - m_GUID: 1d9c3e651ff08e34c9f3837a64433ade
+    m_Address: Map/Common/Object/FileneWall/FBX/FileneWallPillarA
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - removePostBuild
+  - m_GUID: 03b0a926f265763428adf5abefc8204b
+    m_Address: Map/Common/Object/FileneWall/FBX/Textures/Map_Stone_FileneWallPillarALOD0_01_Color
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - removePostBuild
+  - m_GUID: ba54772095802b94a8f4270b62cffbae
+    m_Address: Map/Common/Object/FileneWall/FBX/Textures/Map_Stone_FileneWallPillarALOD0_01_Multi
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - removePostBuild
+  - m_GUID: 512194322e2c2954f99e7f24432b2954
+    m_Address: Map/Common/Object/FileneWall/FBX/Textures/Map_Stone_FileneWallPillarALOD0_01_Normal
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - removePostBuild
+  - m_GUID: 9a5832a4b8cc4e54299e950911115141
+    m_Address: Map/Common/Object/Tree_Karamatu/FBX/Tree_Karamatux1
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - removePostBuild
+  - m_GUID: 9236cf945cb95b54dab98655a3c4ed2d
+    m_Address: Map/Common/Object/Tree_Karamatu/FBX/Textures/Map_Leaf_TreeKaramatu_01_Color
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - removePostBuild
+  - m_GUID: 816b90a98d7836e40851730e26a99fea
+    m_Address: Map/Common/Object/Tree_Karamatu/FBX/Textures/Map_Leaf_TreeKaramatu_01_Multi
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - removePostBuild
+  - m_GUID: 87a303a3223ca184d806d643a115483f
+    m_Address: Map/Common/Object/Tree_Karamatu/FBX/Textures/Map_Leaf_TreeKaramatu_01_Normal
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - removePostBuild
+  - m_GUID: ddb1432028a4ec143a7de502eeb9b6a9
+    m_Address: Map/Common/Object/Tree_Karamatu/FBX/Textures/Map_Wood_TreeKaramatu_01_Color
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - removePostBuild
+  - m_GUID: e98039573904a69409c7b53bd5e760ba
+    m_Address: Map/Common/Object/Tree_Karamatu/FBX/Textures/Map_Wood_TreeKaramatu_01_Normal
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - removePostBuild
+  - m_GUID: 61008ad1e4773084ba6e444c5f6fe3b7
+    m_Address: Map/Common/Object/WoodScaffold/FBX/WoodScaffoldA
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - removePostBuild
+  - m_GUID: 32ee79515d7f28448ab528d75f7d0936
+    m_Address: Map/Common/Object/WoodScaffold/FBX/Textures/Map_Wood_WoodScaffold_01_Color
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - removePostBuild
+  - m_GUID: d7b9faa29dc83b94ab1af442416f9373
+    m_Address: Map/Common/Object/WoodScaffold/FBX/Textures/Map_Wood_WoodScaffold_01_Multi
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - removePostBuild
+  - m_GUID: 6f377009aa239334eb0f4142076c04a2
+    m_Address: Map/Common/Object/WoodScaffold/FBX/Textures/Map_Wood_WoodScaffold_01_Normal
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - removePostBuild
+  - m_GUID: 2013756d8bb3b6c408c588b37280b0e9
+    m_Address: Map/Common/Object/WindMillA/FBX/WindMillA
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - removePostBuild
+  - m_GUID: 6159ef71b4c7bc545b82d1c5ef62e1d8
+    m_Address: Map/Common/Object/WindMillA/FBX/Textures/Map_Stone_WindMillALOD0_01_Color
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - removePostBuild
+  - m_GUID: b19b065a2301e6d4e98e46cdb6d08749
+    m_Address: Map/Common/Object/WindMillA/FBX/Textures/Map_Stone_WindMillALOD0_01_Multi
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - removePostBuild
+  - m_GUID: fc3f9dec41a02734892da43547358fb6
+    m_Address: Map/Common/Object/WindMillA/FBX/Textures/Map_Stone_WindMillALOD0_01_Normal
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - removePostBuild
+  - m_GUID: c8a7ed2c826f5bc40a4128fe0bf1b1bf
+    m_Address: Map/Common/Object/WindMillA/FBX/Textures/Map_Stone_WindMillALOD0_02_Color
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - removePostBuild
+  - m_GUID: 3c6e79b26ee66b740990270ebcf32aa9
+    m_Address: Map/Common/Object/WindMillA/FBX/Textures/Map_Stone_WindMillALOD0_02_Multi
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - removePostBuild
+  - m_GUID: e623910ad6a8e3c4d80b697288748546
+    m_Address: Map/Common/Object/WindMillA/FBX/Textures/Map_Stone_WindMillALOD0_02_Normal
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - removePostBuild
+  - m_GUID: 74775223f28a82344b8d0fe67e53a0f1
+    m_Address: Map/Common/Object/WindMillA/FBX/Textures/Map_Stone_WindMillALOD0_03_Color
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - removePostBuild
+  - m_GUID: 1c52c97507aa0094fa712e913ea44eca
+    m_Address: Map/Common/Object/WindMillA/FBX/Textures/Map_Stone_WindMillALOD0_03_Multi
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - removePostBuild
+  - m_GUID: 06a8b0ded61c96e4fb19b891d5e45779
+    m_Address: Map/Common/Object/WindMillA/FBX/Textures/Map_Stone_WindMillALOD0_03_Normal
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - removePostBuild
+  - m_GUID: 054f5163dbe925646878217711870f2c
+    m_Address: Map/Common/Object/WindMillA/FBX/Textures/Map_Stone_WindMillALOD0_04_Color
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - removePostBuild
+  - m_GUID: 9e78ccd6672e60844a6450ce88f441ed
+    m_Address: Map/Common/Object/WindMillA/FBX/Textures/Map_Stone_WindMillALOD0_04_Multi
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - removePostBuild
+  - m_GUID: 28933cb98e92d3b41b58f99d989a8538
+    m_Address: Map/Common/Object/WindMillA/FBX/Textures/Map_Stone_WindMillALOD0_04_Normal
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - removePostBuild
+  - m_GUID: 30fa9d4c9e773fa44b9e30927b8b6541
+    m_Address: Map/Common/Object/Bush/FBX/BushAx2
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - removePostBuild
+  - m_GUID: fcd6d81d8d19c844a9b2e4883e2a804a
+    m_Address: Map/Common/Object/Bush/FBX/Textures/Map_Grass_BushCombat_01_Color
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - removePostBuild
+  - m_GUID: ec61eecf0836125499ad35e33e0fb5d3
+    m_Address: Map/Common/ToonRamp/ToonRamp_LookDevGrass_01
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - removePostBuild
+  - m_GUID: 27a819ee78509ac41b20288923c099de
+    m_Address: Map/Common/Object/WindMillA/FBX/WindMillA_Break
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - removePostBuild
+  - m_GUID: f06744a3215263f4f955b1712b43e387
+    m_Address: Map/Common/Object/WindMillA/FBX/Textures/Map_Stone_WindMillALOD0_11_Color
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - removePostBuild
+  - m_GUID: 01f7450a8fe1e85439f65cf384b19d9d
+    m_Address: Map/Common/Object/WindMillA/FBX/Textures/Map_Stone_WindMillALOD0_11_Multi
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - removePostBuild
+  - m_GUID: 1a3216f28d65d9445bcfd4f7faa62074
+    m_Address: Map/Common/Object/WindMillA/FBX/Textures/Map_Stone_WindMillALOD0_12_Normal
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - removePostBuild
+  - m_GUID: cbb7a3184e0e33646b858e24823b55b1
+    m_Address: Map/Common/Object/WindMillA/FBX/Textures/Map_Stone_WindMillALOD0_13_Color
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - removePostBuild
+  - m_GUID: 2c2403c34ad92684a891eae914f4c42c
+    m_Address: Map/Common/Object/WindMillA/FBX/Textures/Map_Stone_WindMillALOD0_13_Multi
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - removePostBuild
+  - m_GUID: ec5f8db0692757d428013d2b3f441ca8
+    m_Address: Map/Common/Object/WindMillA/FBX/Textures/Map_Stone_WindMillALOD0_13_Normal
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - removePostBuild
+  - m_GUID: c5ee41c957bf2674499f6ace7f011fe6
+    m_Address: Map/Common/Object/WindMillA/FBX/Textures/Map_Stone_WindMillALOD0_14_Color
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - removePostBuild
+  - m_GUID: 49d2d665f37d14e4bb3f7afab0079f0b
+    m_Address: Map/Common/Object/WindMillA/FBX/Textures/Map_Stone_WindMillALOD0_14_Multi
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - removePostBuild
+  - m_GUID: 7bb0c3f14cb343e4dbfe5d4581618f1c
+    m_Address: Map/Common/Object/WindMillA/FBX/Textures/Map_Stone_WindMillALOD0_14_Normal
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - removePostBuild
+  - m_GUID: da91f56a9fe3bbd49af9fa3993895c53
+    m_Address: Map/Common/Object/FileneHouseA_Break/FBX/FileneHouseA_Break
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - removePostBuild
+  - m_GUID: 5653f9bfd75aa764b838c9e5b935b86c
+    m_Address: Map/Common/Object/FileneHouseA_Break/FBX/Textures/Map_Stone_FileneBreakWallLOD0_01_Color
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - removePostBuild
+  - m_GUID: 2a9e62effa2590d4394e357add163ac5
+    m_Address: Map/Common/Object/FileneHouseA_Break/FBX/Textures/Map_Stone_FileneBreakWallLOD0_01_Multi
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - removePostBuild
+  - m_GUID: 7cf6275a3a878b84393a39b08de900c2
+    m_Address: Map/Common/Object/FileneHouseA_Break/FBX/Textures/Map_Stone_FileneBreakWallLOD0_01_Normal
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - removePostBuild
+  - m_GUID: 41ede45c04674ca479e3708183acdba0
+    m_Address: Map/Common/Object/FileneHouseA_Break/FBX/Textures/Map_Stone_FileneBreakWallLOD0_02_Color
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - removePostBuild
+  - m_GUID: 3ada7c6a6b982974397405a7a5f6aca5
+    m_Address: Map/Common/Object/FileneHouseA_Break/FBX/Textures/Map_Stone_FileneBreakWallLOD0_02_Multi
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - removePostBuild
+  - m_GUID: 869753432cbeaa748b49e7a98229430f
+    m_Address: Map/Common/Object/FileneHouseA_Break/FBX/Textures/Map_Stone_FileneBreakWallLOD0_02_Normal
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - removePostBuild
+  - m_GUID: a2bfb45ed4e2efd4f9e1a4b29bc43af4
+    m_Address: Map/Common/Object/FileneHouseA_Break/FBX/Textures/Map_Stone_FileneHouseABottomLOD0_01_Color
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - removePostBuild
+  - m_GUID: 3bf3083196834054e9cf008c0c985711
+    m_Address: Map/Common/Object/FileneHouseA_Break/FBX/Textures/Map_Stone_FileneHouseABottomLOD0_01_Multi
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - removePostBuild
+  - m_GUID: 888ad348ba4822348ba9b3fb71281106
+    m_Address: Map/Common/Object/FileneHouseA_Break/FBX/Textures/Map_Stone_FileneHouseABottomLOD0_01_Normal
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - removePostBuild
+  - m_GUID: c31c4c7cc0fa1dd4ea5d31a77302c28b
+    m_Address: Map/Common/Object/FileneHouseA_Break/FBX/Textures/Map_Wood_FileneHouseATopLOD0_01_Color
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - removePostBuild
+  - m_GUID: b42431162122a4e409fae00bc1fa06e6
+    m_Address: Map/Common/Object/FileneHouseA_Break/FBX/Textures/Map_Wood_FileneHouseATopLOD0_01_Multi
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - removePostBuild
+  - m_GUID: 99a9d1ebf81f345438690b27e2ac8dc2
+    m_Address: Map/Common/Object/FileneHouseA_Break/FBX/Textures/Map_Wood_FileneHouseATopLOD0_01_Normal
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - removePostBuild
+  - m_GUID: bb598167f97dee246931ce1394013200
+    m_Address: Map/Common/Object/FileneHouseA_Break/FBX/Textures/Map_Wood_FileneHouseBreakDoorLOD0_01_Color
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - removePostBuild
+  - m_GUID: add21cde55427ac4db326ce5df4bb9dc
+    m_Address: Map/Common/Object/FileneHouseA_Break/FBX/Textures/Map_Wood_FileneHouseBreakDoorLOD0_01_Multi
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - removePostBuild
+  - m_GUID: a8575acc7a039854c98772307048f462
+    m_Address: Map/Common/Object/FileneHouseA_Break/FBX/Textures/Map_Wood_FileneHouseBreakDoorLOD0_01_Normal
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - removePostBuild
+  - m_GUID: 42e47d38ce2b0474a9c5149e81fd1ab6
+    m_Address: Map/Common/Object/FortFloor/FBX/FortFloor_Lithos
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - removePostBuild
+  - m_GUID: 35c545868858e2644875c4bad14709c2
+    m_Address: Map/Common/Object/FortFloor/FBX/Textures/Map_Stone_FortFloorA_01_Color
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - removePostBuild
+  - m_GUID: 713f6f92116ff0e479e810b14f687a6d
+    m_Address: Map/Common/Object/FortFloor/FBX/Textures/Map_Stone_FortFloorA_01_Emission
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - removePostBuild
+  - m_GUID: 753fb000f332864458976e041e39c70b
+    m_Address: Map/Common/Object/FortFloor/FBX/Textures/Map_Stone_FortFloorA_01_Multi
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - removePostBuild
+  - m_GUID: 20159c0d9d367574c82fc200e087aca6
+    m_Address: Map/Common/Object/FortFloor/FBX/Textures/Map_Stone_FortFloorA_02_Color
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - removePostBuild
+  - m_GUID: f6682e846f83fa54b9405c7100e20d31
+    m_Address: Map/Common/Object/FortFloor/FBX/Textures/Map_Stone_FortFloorA_02_Emission
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - removePostBuild
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 48df98a99aa853f4da26a0ba98752fd9, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: ebfa9395cdea7804bb642ee316ce606e, type: 2}
+    - {fileID: 11400000, guid: f2e5ebc84969ce34ebc7dd7f24e139d7, type: 2}

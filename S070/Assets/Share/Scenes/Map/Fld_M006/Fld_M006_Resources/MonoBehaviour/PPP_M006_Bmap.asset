@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d7fd9488000d3734a9e00ee676215985, type: 3}
+  m_Name: PPP_M006_Bmap
+  m_EditorClassIdentifier:
+  components:
+  - {fileID: 11400000, guid: b599ef8b11441954ebb7107e49de55ad, type: 2}
+  - {fileID: 11400000, guid: e02b22ff935d09643ad213cce0999f86, type: 2}
+  - {fileID: 11400000, guid: 29c39678ffd1c7a4c810a74e963d518c, type: 2}
+  - {fileID: 11400000, guid: dca8cdd28b9d4c54fa52bcae87f4de3a, type: 2}
+  - {fileID: 11400000, guid: 9026d90cc45f79244b40407ad11c963f, type: 2}
+  - {fileID: 11400000, guid: 3ac5c9ad77128e343a620fd245f1c14e, type: 2}

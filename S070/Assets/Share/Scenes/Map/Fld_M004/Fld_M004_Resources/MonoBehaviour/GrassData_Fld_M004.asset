@@ -1,0 +1,125 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c1007ed8dafdcb84784ed3bd269f20a6, type: 3}
+  m_Name: GrassData_Fld_M004
+  m_EditorClassIdentifier:
+  m_bilinear: 0
+  m_spriteAtlas: {fileID: 687078895, guid: 0000000deadbeef15deadf00d0000000, type: 3}
+  m_spriteInfos:
+  - m_sprite: {fileID: 21300000, guid: 162e11ed5314f0749b249523c0439d2d, type: 2}
+    m_adjustScale: {x: 0.886124, y: 0.4645464}
+    m_spriteScale: {x: 0.6, y: 0.6}
+    m_spriteScaleRandom: {x: 0.2, y: 0.2}
+    m_spriteAspect: 1
+    m_spriteST: {x: 0.22167969, y: 0.23242188, z: 0.5214844, w: 0.51171875}
+    m_topColor: {r: 1, g: 1, b: 1, a: 1}
+    m_bottomColor: {r: 1, g: 1, b: 1, a: 1}
+    m_blendCenter: {x: 0.5, y: 0}
+    m_windColorInfluence: 1
+    m_lodPriority: 0
+    m_useAutoAdjustScale: 1
+  - m_sprite: {fileID: 21300000, guid: b24a7bb5269a1ee4fa2ac11661d1f0d3, type: 2}
+    m_adjustScale: {x: 0.56219506, y: 0.9645464}
+    m_spriteScale: {x: 0.6, y: 0.6}
+    m_spriteScaleRandom: {x: 0.1, y: 0.1}
+    m_spriteAspect: 1
+    m_spriteST: {x: 0.140625, y: 0.48242188, z: 0.5517578, w: 0}
+    m_topColor: {r: 1, g: 1, b: 1, a: 1}
+    m_bottomColor: {r: 1, g: 1, b: 1, a: 1}
+    m_blendCenter: {x: 0.5, y: 0}
+    m_windColorInfluence: 0
+    m_lodPriority: 1
+    m_useAutoAdjustScale: 1
+  - m_sprite: {fileID: 21300000, guid: 86f2f8412df097a45a71bdfbac10c2ea, type: 2}
+    m_adjustScale: {x: 0.53846776, y: 0.99189013}
+    m_spriteScale: {x: 0.6, y: 0.6}
+    m_spriteScaleRandom: {x: 0.1, y: 0.1}
+    m_spriteAspect: 1
+    m_spriteST: {x: 0.13476562, y: 0.49609375, z: 0.7001953, w: 0}
+    m_topColor: {r: 1, g: 1, b: 1, a: 1}
+    m_bottomColor: {r: 1, g: 1, b: 1, a: 1}
+    m_blendCenter: {x: 0.5, y: 0}
+    m_windColorInfluence: 0
+    m_lodPriority: 1
+    m_useAutoAdjustScale: 1
+  - m_sprite: {fileID: 21300000, guid: fddc625fae0e5de45bfc241f38173922, type: 2}
+    m_adjustScale: {x: 0.4994053, y: 0.9645464}
+    m_spriteScale: {x: 0.6, y: 0.6}
+    m_spriteScaleRandom: {x: 0.1, y: 0.1}
+    m_spriteAspect: 1
+    m_spriteST: {x: 0.125, y: 0.48242188, z: 0.84277344, w: 0}
+    m_topColor: {r: 1, g: 1, b: 1, a: 1}
+    m_bottomColor: {r: 1, g: 1, b: 1, a: 1}
+    m_blendCenter: {x: 0.5, y: 0}
+    m_windColorInfluence: 0
+    m_lodPriority: 1
+    m_useAutoAdjustScale: 1
+  - m_sprite: {fileID: 21300000, guid: 82970c72c19b9734582095f2d538f702, type: 2}
+    m_adjustScale: {x: 0.7379384, y: 0.98407763}
+    m_spriteScale: {x: 0.6, y: 0.6}
+    m_spriteScaleRandom: {x: 0.1, y: 0.1}
+    m_spriteAspect: 1
+    m_spriteST: {x: 0.18457031, y: 0.4921875, z: 0, w: 0}
+    m_topColor: {r: 1, g: 1, b: 1, a: 1}
+    m_bottomColor: {r: 1, g: 1, b: 1, a: 1}
+    m_blendCenter: {x: 0.5, y: 0}
+    m_windColorInfluence: 0
+    m_lodPriority: 1
+    m_useAutoAdjustScale: 1
+  - m_sprite: {fileID: 21300000, guid: 370c34f1ec11bf444b0c2aedacde19df, type: 2}
+    m_adjustScale: {x: 0.74959815, y: 0.96064013}
+    m_spriteScale: {x: 0.6, y: 0.6}
+    m_spriteScaleRandom: {x: 0.1, y: 0.1}
+    m_spriteAspect: 1
+    m_spriteST: {x: 0.1875, y: 0.48046875, z: 0.19238281, w: 0}
+    m_topColor: {r: 1, g: 1, b: 1, a: 1}
+    m_bottomColor: {r: 1, g: 1, b: 1, a: 1}
+    m_blendCenter: {x: 0.5, y: 0}
+    m_windColorInfluence: 0
+    m_lodPriority: 1
+    m_useAutoAdjustScale: 1
+  - m_sprite: {fileID: 21300000, guid: bdcbb47c47b1409458a8113a058f1a8b, type: 2}
+    m_adjustScale: {x: 0.5036769, y: 0.94125134}
+    m_spriteScale: {x: 0.7, y: 0.7}
+    m_spriteScaleRandom: {x: 0.1, y: 0.1}
+    m_spriteAspect: 1
+    m_spriteST: {x: 0.12597656, y: 0.47070312, z: 0.3876953, w: 0.48046875}
+    m_topColor: {r: 1, g: 1, b: 1, a: 1}
+    m_bottomColor: {r: 1, g: 1, b: 1, a: 1}
+    m_blendCenter: {x: 0.5, y: 0}
+    m_windColorInfluence: 0
+    m_lodPriority: 1
+    m_useAutoAdjustScale: 1
+  - m_sprite: {fileID: 21300000, guid: ebf6857ce291ad4449e5fcfd2b4340c6, type: 2}
+    m_adjustScale: {x: 0.6208925, y: 0.9569169}
+    m_spriteScale: {x: 0.4, y: 0.4}
+    m_spriteScaleRandom: {x: 0.1, y: 0.1}
+    m_spriteAspect: 1
+    m_spriteST: {x: 0.15527344, y: 0.47851562, z: 0.19238281, w: 0.49609375}
+    m_topColor: {r: 1, g: 1, b: 1, a: 1}
+    m_bottomColor: {r: 1, g: 1, b: 1, a: 1}
+    m_blendCenter: {x: 0.5, y: 0}
+    m_windColorInfluence: 0
+    m_lodPriority: 1
+    m_useAutoAdjustScale: 0
+  - m_sprite: {fileID: 21300000, guid: 9b9cc8a8a0aa63a49bb840e1dc711976, type: 2}
+    m_adjustScale: {x: 0.62440526, y: 0.92957544}
+    m_spriteScale: {x: 0.4, y: 0.4}
+    m_spriteScaleRandom: {x: 0.1, y: 0.1}
+    m_spriteAspect: 1
+    m_spriteST: {x: 0.15625, y: 0.46484375, z: 0.3876953, w: 0}
+    m_topColor: {r: 1, g: 1, b: 1, a: 1}
+    m_bottomColor: {r: 1, g: 1, b: 1, a: 1}
+    m_blendCenter: {x: 0.5, y: 0}
+    m_windColorInfluence: 0
+    m_lodPriority: 1
+    m_useAutoAdjustScale: 0
